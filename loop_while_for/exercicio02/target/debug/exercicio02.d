@@ -1,0 +1,1 @@
+/mnt/c/Users/cesar/OneDrive/Documentos/Estudos/treinamento_rust/loop_while_for/exercicio02/target/debug/exercicio02: /mnt/c/Users/cesar/OneDrive/Documentos/Estudos/treinamento_rust/loop_while_for/exercicio02/src/main.rs
