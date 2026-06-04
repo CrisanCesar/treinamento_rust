@@ -1,1 +1,0 @@
-/mnt/c/Users/cesar/OneDrive/Documentos/Estudos/treinamento_rust/shadowing/exercicio/target/debug/exercicio: /mnt/c/Users/cesar/OneDrive/Documentos/Estudos/treinamento_rust/shadowing/exercicio/src/main.rs

@@ -1,1 +1,0 @@
-/mnt/c/Users/cesar/OneDrive/Documentos/Estudos/treinamento_rust/loop_while_for/exfor/target/debug/exfor: /mnt/c/Users/cesar/OneDrive/Documentos/Estudos/treinamento_rust/loop_while_for/exfor/src/main.rs
