@@ -1,0 +1,1 @@
+/mnt/c/Users/cesar/OneDrive/Documentos/Estudos/treinamento_rust/loop_while_for/exwhiile/target/debug/exwhiile: /mnt/c/Users/cesar/OneDrive/Documentos/Estudos/treinamento_rust/loop_while_for/exwhiile/src/main.rs
