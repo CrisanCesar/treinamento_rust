@@ -1,6 +1,6 @@
 fn main() {
     println!("Olá, mundo!");
-
+    
     outra_funcao();
 }
 
