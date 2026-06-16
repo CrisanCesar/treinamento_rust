@@ -63,7 +63,7 @@ cargo run
 * [x] For
 * [x] Match
 * [x] Entrada de dados (stdin)
-* [ ] Funções
+* [x] Funções
 * [ ] Structs
 * [ ] Enums
 * [ ] Ownership
